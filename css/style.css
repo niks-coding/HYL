@@ -50,8 +50,15 @@ h1 {
 }
 
 h2 {
-  color: #ffffff;
+  color: #000000;
   font-size: 1rem;
+}
+
+.batofar h2 {
+  color: #000000;
+  font-size: 1.5rem;
+	text-align: center;
+	padding-bottom: 60px;
 }
 
 h3 {
@@ -65,12 +72,35 @@ h5 {
   letter-spacing: 1px;
 }
 
+
+
 p {
   color: #777;
   font-size: 16px;
   line-height: 28px;
   word-spacing: 1px;
   letter-spacing: 1px;
+}
+
+.text-batofar {
+  color: #777;
+  font-size: 16px;
+  line-height: 28px;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+	text-align: center;
+	}
+
+.col-md-4 p {
+  color: #777;
+  font-size: 16px;
+  line-height: 28px;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+	text-align: center;
+	padding-top: 15px;
+
+
 }
 
 a {
